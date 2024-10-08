@@ -106,6 +106,10 @@ Then modify the `scripts` section in the `package.json` file to add a `start` an
 }
 ```
 
+```
+npm run dev
+```
+
 Say it with me: Magic!
 
 ![Hermoine](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOUwzqE4ZOk5Bm%2F200.gif&f=1&nofb=1)
